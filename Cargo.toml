@@ -1,0 +1,11 @@
+[package]
+name = "temporal-logic"
+version = "0.1.0"
+edition = "2021"
+description = "Linear temporal logic (LTL) with formula parsing, tableau construction, and automaton translation"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/temporal-logic"
+keywords = ["ltl", "temporal-logic", "formal-methods", "verification", "automata"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
